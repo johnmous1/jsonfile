@@ -2,10 +2,10 @@
   "domains": [
     {
       "Comp_code": "0027",
-      "BaseUrl": "http://194.219.105.186:7026/exesjson/test",
+      "BaseUrl": "http://194.219.105.186:7026/exesjson/",
       "ApiCode": "UF0MKWEPLRNGGDA",
       "ApplicationName": "Hercules.MyPylonCommercial",
-      "DatabaseAlias": "PYLON_TOEB_1"
+      "DatabaseAlias": "PYLON_TOEB_10"
     },
     {
       "Comp_code": "0046",
