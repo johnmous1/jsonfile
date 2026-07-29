@@ -9,11 +9,12 @@
       "LicenseExpired": false
     },
     {
-      "Comp_code": "0046",
+      "Comp_code": "f37023e5-f722-ea11-a51c-002324124576",
       "BaseUrl": "http://194.219.105.186:7026/exesjson",
       "ApiCode": "UF0MKWEPLRNGGDA",
       "ApplicationName": "Hercules.MyPylonCommercial",
-      "DatabaseAlias": "PYLON_TOEB_2"
+      "DatabaseAlias": "PYLON_TOEB_1",
+       "LicenseExpired": true
     },
     {
       "Comp_code": "0054",
