@@ -7,7 +7,7 @@
       "ApplicationName": "Hercules.MyPylonCommercial",
       "DatabaseAlias": "PYLON_TOEB_1",
       "LicenseExpired": false,
-      "System": "pylon",
+      "System": "PYLON",
     },
     {
       "Comp_code": "f37023e5-f722-ea11-a51c-002324124576",
@@ -16,7 +16,7 @@
       "ApplicationName": "Hercules.MyPylonCommercial",
       "DatabaseAlias": "PYLON_TOEB_1",
       "LicenseExpired": false,
-      "System": "BL",
+      "System": "PYLON",
 
     },
     {
