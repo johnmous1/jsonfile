@@ -2,7 +2,7 @@
   "domains": [
     {
       "Comp_code": "380e0fd4-dd0c-f111-845c-54bf64700e6e",
-      "BaseUrl": "http://194.219.105.186:7026/exesjson/",
+      "BaseUrl": "http://193.92.171.171:7026/exesjson/",
       "ApiCode": "UF0MKWEPLRNGGDA",
       "ApplicationName": "Hercules.MyPylonCommercial",
       "DatabaseAlias": "PYLON_TOEB_1",
@@ -11,7 +11,7 @@
     },
     {
       "Comp_code": "f37023e5-f722-ea11-a51c-002324124576",
-      "BaseUrl": "http://194.219.105.186:7026/exesjson",
+      "BaseUrl": "http://193.92.171.171:7026/exesjson",
       "ApiCode": "UF0MKWEPLRNGGDA",
       "ApplicationName": "Hercules.MyPylonCommercial",
       "DatabaseAlias": "PYLON_TOEB_1",
