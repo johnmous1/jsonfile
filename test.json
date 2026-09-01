@@ -31,7 +31,7 @@
       "BaseUrl": "http://193.92.171.171:7026/exesjson",
       "ApiCode": "UF0MKWEPLRNGGDA",
       "ApplicationName": "Hercules.MyPylonCommercial",
-      "DatabaseAlias": "PYLON_TOEB_3",
+      "DatabaseAlias": "PYLON_TOEB_1",
       "LicenseExpired": false,
       "System": "BL",
       "Database":"TOEBKALOUX"
