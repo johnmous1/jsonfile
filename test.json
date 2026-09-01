@@ -25,6 +25,14 @@
       "ApiCode": "UF0MKWEPLRNGGDA",
       "ApplicationName": "Hercules.MyPylonCommercial",
       "DatabaseAlias": "PYLON_TOEB_3"
+    },
+    {
+      "Comp_code": "FAF2F413-1EB5-EA11-BEF2-D027888B568E",
+      "BaseUrl": "http://194.219.105.186:7026/exesjson",
+      "ApiCode": "UF0MKWEPLRNGGDA",
+      "ApplicationName": "Hercules.MyPylonCommercial",
+      "DatabaseAlias": "PYLON_TOEB_3",
+      "Database":"TOEBKALOUX"
     }
   ]
 }
