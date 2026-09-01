@@ -32,6 +32,8 @@
       "ApiCode": "UF0MKWEPLRNGGDA",
       "ApplicationName": "Hercules.MyPylonCommercial",
       "DatabaseAlias": "PYLON_TOEB_3",
+      "LicenseExpired": false,
+      "System": "BL",
       "Database":"TOEBKALOUX"
     }
   ]
