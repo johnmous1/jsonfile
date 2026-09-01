@@ -28,7 +28,7 @@
     },
     {
       "Comp_code": "FAF2F413-1EB5-EA11-BEF2-D027888B568E",
-      "BaseUrl": "http://194.219.105.186:7026/exesjson",
+      "BaseUrl": "http://193.92.171.171:7026/exesjson",
       "ApiCode": "UF0MKWEPLRNGGDA",
       "ApplicationName": "Hercules.MyPylonCommercial",
       "DatabaseAlias": "PYLON_TOEB_3",
